@@ -12,7 +12,7 @@
     "jshint-stylish": "^2.0.0",
     "mochify": "dylanfm/mochify.js",
     "mochify-istanbul": "^2.1.1",
-    "should": "^7.0.0"
+    "should": "^11.1.1"
   },
   "main": "./index.js",
   "scripts": {
